@@ -22,7 +22,7 @@ li {
   padding-bottom: 10px;
 }
 a {
-  color: rgb(12, 255, 133);
+  color: rgb(0, 255, 98);
   text-decoration: none;
 }
 img {
@@ -111,4 +111,19 @@ img {
   height: auto;
   object-fit: contain;
   max-width: 100%;
+}
+
+footer {
+display: flex;
+position: relative;
+justify-content: center;
+align-items: center;
+height: 50px;
+border: 3px solid;
+border-radius: 10px;
+border-color: rgb(0, 255, 98);
+margin-top: 5px;
+
+
+
 }
