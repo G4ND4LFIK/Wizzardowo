@@ -90,6 +90,10 @@ img {
 
 }
 
+.nav-link:hover{
+  transform: scale(1.10);
+}
+
 .main-container2 {
   display: flex;
   justify-content: center;
