@@ -333,3 +333,8 @@ transition: 0.2s;
 .nav-link4:hover{
   transform: scale(1.10);
 }
+
+.menu-container:hover {
+  transform: scale(1.1);
+  
+}
