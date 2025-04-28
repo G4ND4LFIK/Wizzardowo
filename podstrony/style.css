@@ -142,7 +142,7 @@ img {
   justify-content: center;
 }
 
-.nav-link3 {
+.product-card {
   height: 600px;
   width: 450px;
   background-color: rgb(33, 34, 36);
@@ -162,7 +162,7 @@ img {
   }
 }
 
-.nav-link3:hover {
+.product-card:hover {
   transform: scale(1.05);
 }
 
@@ -315,7 +315,7 @@ img {
 }
 
 
-.nav-link4 {
+.menu-container {
   display: flex;
   justify-content: center;
   align-items: center;
