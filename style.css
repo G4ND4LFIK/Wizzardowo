@@ -150,6 +150,7 @@ footer {
   word-wrap: break-word;
   padding: 10px;
   @media (max-width: 700px) {
+    flex-wrap: wrap;
     height: 700px;
     width: 130px;
   }
