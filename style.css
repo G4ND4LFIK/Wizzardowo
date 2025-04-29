@@ -204,3 +204,18 @@ display: flex;
 
 }
 
+.containervfooter {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  align-items: top;
+  width: 300px;
+  height: 30px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  top: 50px;
+  gap: 107px;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+
