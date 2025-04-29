@@ -52,8 +52,12 @@ img {
 
 .container {
   display: flex;
-  justify-content: center;
+  position: relative;
+  flex-wrap: wrap;
   flex-direction: row;
+  top: 50px;
+  gap: 107px;
+  justify-content: center;
   align-items: center;
   gap: 30px;
   @media (max-width: 430px) {
