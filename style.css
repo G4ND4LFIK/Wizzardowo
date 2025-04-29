@@ -58,10 +58,8 @@ img {
   height: 700px;
   flex-direction: row;
   top: 50px;
-  gap: 107px;
-  justify-content: center;
-  align-items: center;
-  gap: 30px;@media 
+  gap: 30px;
+  @media 
   (max-width: 500px) {
     gap: 8px;
   }
