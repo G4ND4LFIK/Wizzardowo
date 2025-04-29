@@ -170,7 +170,6 @@ footer {
 
 .containerv2 {
   display: flex;
-  position: relative;
   justify-content: center;
   align-items: top;
   width: 300px;
