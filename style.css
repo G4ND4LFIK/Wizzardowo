@@ -173,3 +173,25 @@ footer {
   margin-top: 20px;
 }
 
+.containerv2 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: top;
+  width: 300px;
+  height: 700px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  top: 50px;
+  gap: 107px;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  @media (max-width: 700px) {
+    flex-wrap: wrap;
+    height: 700px;
+    width: 240px;
+    gap: 8px;
+    }
+}
+
