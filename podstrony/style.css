@@ -305,7 +305,6 @@ img {
 
 .container4 {
   display: flex; 
-  position: relative;
   justify-content: center;
   flex-direction: row;
   align-items: center;
@@ -318,7 +317,6 @@ img {
 
 .menu-container {
   display: flex;
-  position:relative;
   justify-content: center;
   align-items: center;
   width: 150px;
