@@ -137,8 +137,8 @@ footer {
   display: flex;
   justify-content: center;
   align-items: top;
-  width: 270px;
-  height: 1150px;
+  width: 300px;
+  height: 650px;
   background-color: rgb(33, 34, 36);
   text-align: center;
   box-shadow: 6px 7px 0px rgba(24, 23, 23, 0.842);
@@ -148,6 +148,10 @@ footer {
   margin-top: 10px;
   word-wrap: break-word;
   padding: 10px;
+  @media (max-width: 500px) {
+    height: 1400px;
+    width: 200px;
+  }
 }
 
 /* .:hover {
