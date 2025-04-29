@@ -63,7 +63,10 @@ img {
   gap: 107px;
   justify-content: center;
   align-items: center;
-  gap: 30px;
+  gap: 30px;@media 
+  (max-width: 500px) {
+    gap: 8px;
+  }
 }
 
 .main-img {
